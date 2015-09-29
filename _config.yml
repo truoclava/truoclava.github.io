@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Val in Wonderland
+subtitle: it's a hacker's world
+author: Alexandra Valcourt
 simple_search: https://www.google.com/search
-description:
+description: blog documents my journey to become a full stack web developer
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
