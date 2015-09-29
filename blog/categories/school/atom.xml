@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: School | Val in Wonderland]]></title>
+  <title><![CDATA[Category: school | Val in Wonderland]]></title>
   <link href="http://truoclava.github.io/blog/categories/school/atom.xml" rel="self"/>
   <link href="http://truoclava.github.io/"/>
-  <updated>2015-09-29T12:52:24-04:00</updated>
+  <updated>2015-09-29T13:27:53-04:00</updated>
   <id>http://truoclava.github.io/</id>
   <author>
     <name><![CDATA[Alexandra Valcourt]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[My First Post on Octopress]]></title>
+    <title type="html"><![CDATA[My First Post On Octopress]]></title>
     <link href="http://truoclava.github.io/blog/2015/09/29/my-first-post-on-octopress/"/>
     <updated>2015-09-29T12:51:26-04:00</updated>
     <id>http://truoclava.github.io/blog/2015/09/29/my-first-post-on-octopress</id>
