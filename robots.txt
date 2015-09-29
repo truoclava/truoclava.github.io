@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://truoclava.github.io/sitemap.xml 
